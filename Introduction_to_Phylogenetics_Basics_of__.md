@@ -1,15 +1,13 @@
-# Introduction to Phylogenetics
-
-## Basics of tree inference
+# Basics of tree inference
     1. getting data from NCBI
     2. sequence alignment
 
-## Maximum-likelihood phylogeny reconstruction
+# Maximum-likelihood phylogeny reconstruction
     1. models of sequence evolution
     2. RAxML
 
-## Bayesian phylogeny reconstruction: MrBayes
+# Bayesian phylogeny reconstruction: MrBayes
 
-## Bayesian phylogeny reconstruction: BEAST
+# Bayesian phylogeny reconstruction: BEAST
 
-## Next-generation sequencing: RADSeq
+# Next-generation sequencing: RADSeq
