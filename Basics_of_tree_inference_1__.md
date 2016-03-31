@@ -2,12 +2,12 @@
     1. getting data from NCBI
     2. sequence alignment
 
-# Maximum-likelihood phylogeny reconstruction
+# Maximum likelihood
     1. models of sequence evolution
     2. RAxML
 
-# Bayesian phylogeny reconstruction: MrBayes
+# Bayesian inference: MrBayes
 
-# Bayesian phylogeny reconstruction: BEAST
+# Bayesian inference: BEAST
 
 # Next-generation sequencing: RADSeq
