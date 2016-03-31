@@ -1,6 +1,11 @@
-# Basics of tree inference
-    1. getting data from NCBI
-    2. sequence alignment
+# Basics of tree inference: data
+
+Software
+
+* [UGENE](http://ugene.net/download.html)
+
+1. sequence alignment
+2. getting sequence data from Genbank
 
 # Maximum likelihood
     1. models of sequence evolution
