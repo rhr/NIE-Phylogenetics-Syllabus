@@ -1,12 +1,12 @@
 # Basics of tree inference: data
 
-## Software
-
-* [UGENE](http://ugene.net/download.html)
-
 ## Topics
 * sequence alignment
 * getting sequence data from Genbank
+
+### Software
+* [UGENE](http://ugene.net/download.html)
+
 
 # Maximum likelihood
 ## Models of sequence evolution
