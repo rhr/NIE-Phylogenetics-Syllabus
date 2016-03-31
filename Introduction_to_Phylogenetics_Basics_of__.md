@@ -1,6 +1,6 @@
 # Introduction to Phylogenetics
 
-### Basics of tree inference
+## Basics of tree inference
     1. getting data from NCBI
     2. sequence alignment
 
