@@ -9,8 +9,10 @@
 * getting sequence data from Genbank
 
 # Maximum likelihood
-    1. models of sequence evolution
-    2. RAxML
+## Models of sequence evolution
+
+## Software
+* RAxML
 
 # Bayesian inference: MrBayes
 
