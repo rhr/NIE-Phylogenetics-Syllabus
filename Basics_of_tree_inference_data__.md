@@ -1,6 +1,7 @@
 # Basics of tree inference: data
 
 Topics:
+
 * sequence alignment
 * getting sequence data from Genbank
 
