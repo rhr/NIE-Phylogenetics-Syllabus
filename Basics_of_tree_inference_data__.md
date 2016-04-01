@@ -1,4 +1,4 @@
-# Basics of tree inference: data
+# Working with DNA sequence data
 
 Topics:
 
@@ -10,13 +10,19 @@ Software:
 * [UGENE](http://ugene.net/download.html)
 
 
-# Maximum likelihood
+# Tree inference: maximum likelihood
+
+Topics:
 
 * models of sequence evolution
+* bootstrapping
+* tree visualization
 
-## Software
+Software:
 
 * RAxML via the [CIPRES portal](https://www.phylo.org/)
+* [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
+* [Tree Illustrator](http://rawgit.com/OpenTreeOfLife/tree-illustrator/master/stylist/stylist.html)
 
 # Bayesian inference: MrBayes
 
