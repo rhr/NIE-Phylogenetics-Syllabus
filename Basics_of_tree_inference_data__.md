@@ -12,7 +12,8 @@ Software:
 * models of sequence evolution
 
 ## Software
-* RAxML
+
+* RAxML via the [CIPRES portal](https://www.phylo.org/)
 
 # Bayesian inference: MrBayes
 
