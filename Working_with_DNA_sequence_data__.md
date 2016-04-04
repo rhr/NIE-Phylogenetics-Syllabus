@@ -23,11 +23,8 @@ Software:
 * RAxML via the [CIPRES portal](https://www.phylo.org/)
 * [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
 * [Tree Illustrator](http://rawgit.com/OpenTreeOfLife/tree-illustrator/master/stylist/stylist.html)
+* [iTOL](http://itol.embl.de/)
 
 # Bayesian inference: MrBayes
 
 # Bayesian inference: BEAST
-
-<--
-# Next-generation sequencing: RADSeq
--->
