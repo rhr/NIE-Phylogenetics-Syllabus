@@ -28,4 +28,6 @@ Software:
 
 # Bayesian inference: BEAST
 
+<--
 # Next-generation sequencing: RADSeq
+-->
