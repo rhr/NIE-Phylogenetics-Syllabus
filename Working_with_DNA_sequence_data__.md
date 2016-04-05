@@ -1,3 +1,11 @@
+# Introduction: why phylogenetics?
+
+* basic concepts and terminology
+* applications to ecological research
+
+	* community assembly
+	* conservation
+
 # Working with DNA sequence data
 
 Topics:
